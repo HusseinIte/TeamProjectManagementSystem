@@ -54,7 +54,7 @@ A pivot table linking users to projects, with additional fields:
  1. **Clone the repository:**
  
      ```bash
-     git clone https://github.com/HusseinIte/TaskManagement.git
+     git clone https://github.com/HusseinIte/TeamProjectManagementSystem.git
      cd TaskManagement
      ```
  
