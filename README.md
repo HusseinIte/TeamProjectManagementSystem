@@ -55,7 +55,7 @@ A pivot table linking users to projects, with additional fields:
  
      ```bash
      git clone https://github.com/HusseinIte/TeamProjectManagementSystem.git
-     cd TaskManagement
+     cd TeamProjectManagementSystem
      ```
  
  2. **Install dependencies:**
